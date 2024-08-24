@@ -20,4 +20,5 @@ Provided actionable insights to improve profitability and inform strategic decis
 
 # Tools and Technologies
 MySQL: Used for data cleaning, preparation, and ensuring data quality through wrangling and feature engineering.
+
 Excel: Utilized for the preparation and analysis of financial statements.
